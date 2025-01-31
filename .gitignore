@@ -1,0 +1,35 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Django specific files
+*.log
+*.pot
+*.pyc
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Django migrations folder
+*/migrations/
+
+# Coverage folder for code testing
+/coverage/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.swp
